@@ -1,0 +1,14 @@
+item.cyanite_ingot.name=Cyanite Ingot
+item.steel_ingot.name=Steel Ingot
+item.cyaniteHelmet.name=Cyanite Helmet
+item.cyaniteChestPlate.name=Cyanite ChestPlate
+item.cyaniteLeggings.name=Cyanite Leggings
+item.cyaniteBoots.name=Cyanite Boots
+item.cyanite_sword.name=Cyanite Sword
+item.cyanite_pickaxe.name=Cyanite Pickaxe
+item.cyanite_axe.name=Cyanite Axe
+item.cyanite_shovel.name=Cyanite Shovel
+item.cyanite_hoe.name=Cyanite Hoe
+sword.mode.message.0=Burn players
+sword.mode.message.1=Burn monsters
+sword.mode.message.2=Bur, animals

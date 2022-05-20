@@ -1,0 +1,16 @@
+[
+{
+  "modid": "modproject",
+  "name": "Mod Project",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Galtrips"],
+  "credits": "Zeldown",
+  "logoFile": "/assets/modid/manage.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

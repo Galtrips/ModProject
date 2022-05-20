@@ -1,0 +1,13 @@
+item.cyanite_ingot.name=Lingot de Cyanite
+item.steel_ingot.name=Lingot de Steel
+item.cyaniteHelmet.name=Casque en Cyanite
+item.cyaniteChestPlate.name=Plastron en Cyanite
+item.cyaniteLeggings.name=Jambiere en Cyanite
+item.cyaniteBoots.name=Bottes en Cyanite
+item.cyanite_sword.name=Epee en Cyanite
+item.cyanite_pickaxe.name=Pioche en Cyanite
+item.cyanite_axe.name=Hache en Cyanite
+item.cyanite_hoe.name=Houe en Cyanite
+sword.mode.message.0=Enflammer les joueurs
+sword.mode.message.1=Enflammer les monstres
+sword.mode.message.2=Enflammer les animaux
